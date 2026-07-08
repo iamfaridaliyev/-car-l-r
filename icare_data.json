@@ -1,0 +1,383 @@
+{
+  "tenants": [
+    {
+      "id": "mrbl1e7x52w3fw",
+      "station": "1 YDM",
+      "name": "Yalçın Ismayilov",
+      "rent": 1800,
+      "opening": 1800,
+      "kommunal": 0,
+      "note": "",
+      "variableRent": false
+    },
+    {
+      "id": "mrbl1e7xudd6g2",
+      "station": "1 YDM",
+      "name": "Iman Imanov",
+      "rent": 1800,
+      "opening": 1800,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xyw3qrm",
+      "station": "2 YDM",
+      "name": "Təbriz Yusifov",
+      "rent": 1700,
+      "opening": 1700,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xm520zc",
+      "station": "2i YDM",
+      "name": "Dadaş Aliyev",
+      "rent": 1260,
+      "opening": 1260,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xbq3g3y",
+      "station": "5 YDM",
+      "name": "Müşfiq Hüseynov",
+      "rent": 1000,
+      "opening": 1000,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xbi8rw0",
+      "station": "5 YDM",
+      "name": "Samir Nuriyev",
+      "rent": 420,
+      "opening": 420,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7x79f57l",
+      "station": "5i YDM",
+      "name": "Aruz Allahverdiyev",
+      "rent": 250,
+      "opening": 250,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7x6uux3o",
+      "station": "6i YDM",
+      "name": "Raqif",
+      "rent": 300,
+      "opening": 300,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7x8iipp8",
+      "station": "7 YDM",
+      "name": "Hesenov Əmir",
+      "rent": 1500,
+      "opening": 1500,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xa323qm",
+      "station": "7 YDM",
+      "name": "Cəfərov Anar",
+      "rent": 2124,
+      "opening": 2124,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7x5bbphc",
+      "station": "8i YDM",
+      "name": "Füzuli Yusifov",
+      "rent": 250,
+      "opening": 250,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xqb21ns",
+      "station": "9 YDM",
+      "name": "Məhərrəmov Elçin",
+      "rent": 2000,
+      "opening": 2000,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xaf21s1",
+      "station": "9 YDM",
+      "name": "Nicat Tağıyev",
+      "rent": 700,
+      "opening": 700,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xebo1l7",
+      "station": "9 YDM",
+      "name": "Tenglee",
+      "rent": 10000,
+      "opening": 10000,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7x2qogfp",
+      "station": "10 YDM",
+      "name": "Səbuhi Ələsqərov",
+      "rent": 354,
+      "opening": 354,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xffgha1",
+      "station": "10i YDM",
+      "name": "Ramin Əfəndiyev",
+      "rent": 550,
+      "opening": 550,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xrbuhns",
+      "station": "13 YDM",
+      "name": "Qasımov Elmar",
+      "rent": 3700,
+      "opening": 3700,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xfsu5yi",
+      "station": "15 YDM",
+      "name": "Həsənov Amin",
+      "rent": 300,
+      "opening": 300,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xvvhwv3",
+      "station": "17 YDM",
+      "name": "Abdulla Məmmədov",
+      "rent": 1100,
+      "opening": 1100,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7x6ukkv9",
+      "station": "20 YDM",
+      "name": "Ələsqərvov Zaur",
+      "rent": 450,
+      "opening": 450,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xeweh5h",
+      "station": "22 YDM",
+      "name": "Cavadov Elvin",
+      "rent": 430,
+      "opening": 430,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xueu91l",
+      "station": "22i YDM",
+      "name": "Əliyarov Elyar",
+      "rent": 1600,
+      "opening": 3000,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7x64feno",
+      "station": "23 YDM",
+      "name": "Mehdiyev Elsəvər",
+      "rent": 350,
+      "opening": 350,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xu3bktv",
+      "station": "24i YDM",
+      "name": "Köçəli Cəfərov",
+      "rent": 450,
+      "opening": 450,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xwwu3nl",
+      "station": "24i YDM",
+      "name": "İlham Vəliyev",
+      "rent": 350,
+      "opening": 350,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xodlp31",
+      "station": "24i YDM",
+      "name": "Musayev Eldar",
+      "rent": 400,
+      "opening": 400,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xmn68zd",
+      "station": "27i YDM",
+      "name": "Şahin Qədirov",
+      "rent": 650,
+      "opening": 650,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xkn3gj5",
+      "station": "Terminal 1",
+      "name": "SQS",
+      "rent": 4900,
+      "opening": 4900,
+      "kommunal": 0,
+      "note": "",
+      "variableRent": true
+    },
+    {
+      "id": "mrbl1e7xtppvnx",
+      "station": "Terminal 1",
+      "name": "Xeybər",
+      "rent": 300,
+      "opening": 300,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7x0srveo",
+      "station": "1,2,7,8,9,12,14,17 YDM",
+      "name": "Line İnternational Group",
+      "rent": 3600,
+      "opening": 2250,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xt7xf3t",
+      "station": "7,8,12",
+      "name": "Hənifə Bədəlov",
+      "rent": 840,
+      "opening": 1350,
+      "kommunal": 0,
+      "note": "Əsas fayldan tapılmadı — tarifi yoxlayın"
+    },
+    {
+      "id": "mrbl1e7xcn1uvo",
+      "station": "Terminal Naxçıvan",
+      "name": "Mehman Hüseynov",
+      "rent": 150,
+      "opening": 150,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xymrj5a",
+      "station": "1 YDM",
+      "name": "Anar Abdullayev",
+      "rent": 900,
+      "opening": 900,
+      "kommunal": 70,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7x8vs1wn",
+      "station": "2 YDM",
+      "name": "Kamran Həsənov",
+      "rent": 800,
+      "opening": 800,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbl1e7xb4fs4l",
+      "station": "17 YDM",
+      "name": "Gap Media",
+      "rent": 0,
+      "opening": 0,
+      "kommunal": 0,
+      "note": "Reklam Şirkəti (Orxan)",
+      "variableRent": true
+    },
+    {
+      "id": "mrbl1e7x47mli3",
+      "station": "3 YDM",
+      "name": "Tamerlan Hüseynov",
+      "rent": 500,
+      "opening": 500,
+      "kommunal": 0,
+      "note": ""
+    },
+    {
+      "id": "mrbltikb0tz4ct",
+      "station": "11 YDM",
+      "name": "Mustafayev Əvəz",
+      "rent": 1350,
+      "opening": 1350,
+      "kommunal": 0,
+      "note": ""
+    }
+  ],
+  "payments": [
+    {
+      "id": "mrbl29qh4n7yhi",
+      "tenantId": "mrbl1e7x47mli3",
+      "date": "2026-07-08",
+      "amount": 500,
+      "type": "İcarə",
+      "note": ""
+    },
+    {
+      "id": "mrbl2j8hmgsnri",
+      "tenantId": "mrbl1e7x8vs1wn",
+      "date": "2026-07-08",
+      "amount": 800,
+      "type": "İcarə",
+      "note": ""
+    },
+    {
+      "id": "mrbl2qowpb384j",
+      "tenantId": "mrbl1e7xymrj5a",
+      "date": "2026-07-08",
+      "amount": 900,
+      "type": "İcarə",
+      "note": ""
+    },
+    {
+      "id": "mrbl2v7ksodgle",
+      "tenantId": "mrbl1e7xymrj5a",
+      "date": "2026-07-08",
+      "amount": 70,
+      "type": "Kommunal",
+      "note": ""
+    },
+    {
+      "id": "mrblua2bplirjh",
+      "tenantId": "mrbltikb0tz4ct",
+      "date": "2026-07-08",
+      "amount": 1350,
+      "type": "İcarə",
+      "note": ""
+    }
+  ],
+  "charges": []
+}
